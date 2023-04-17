@@ -14,7 +14,7 @@ Everything.
 
 ## Currently Working on:
 ![](https://geps.dev/progress/32?dangerColor=800000&warningColor=ff9900&successColor=006600)
-[]
+![](https://geps.dev/progress/32?dangerColor=800000&warningColor=ff9900&successColor=006600)
 ## Stretch Goals:
  - Image Classification
  - User Auth
