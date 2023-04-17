@@ -16,6 +16,10 @@ Everything.
 ![](https://geps.dev/progress/60?dangerColor=800000&successColor=ff9900&successColor=006600) User Auth
 ![](https://geps.dev/progress/55?dangerColor=800000&successColor=ff9900&warningColor=006600) Back CRUD
 ![](https://geps.dev/progress/35?dangerColor=800000&successColor=ff9900&successColor=006600) Front CRUD
+![](https://geps.dev/progress/35?dangerColor=800000&successColor=ff9900&successColor=006600) styling
+
+
+
 ## Stretch Goals:
  - Image Classification
  - User Auth
